@@ -1,0 +1,102 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-image: url("./assets/img/banner-auto2.png"), linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+}
+
+.banner-container {
+    text-align: center;
+    padding: 15% 0;
+}
+
+.banner h1 {
+    margin: 0;
+    color: antiquewhite;
+    text-shadow: 1px 1px 3px rgb(0, 0, 0, 0.2);
+    font-size: 62px;
+    font-weight: bold;
+}
+
+.banner p {
+    font-size: 30px;
+    color: aliceblue;
+    opacity: 0.7;
+    text-shadow: 1px 1px 3px rgb(0, 0, 0, 0.2);
+}
+
+
+.nav-container{
+    position: sticky;
+    z-index: 3;
+    top: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 15vh;
+    background-color: #1b1b1b;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+}
+
+.logo-nav{
+    justify-self: start;
+    margin-left: 20px;
+    margin-top: 5vh;
+    cursor: pointer;
+}
+
+.Promos{
+    font-size: 25px;
+    color: antiquewhite;
+    margin-right: 10px;
+    margin-top: 4vh;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.sobreMi{
+    font-size: 25px;
+    color: antiquewhite;
+    margin-right: 10px;
+    margin-top: 4vh;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.Catalogo {
+    font-size: 25px;
+    color: antiquewhite;
+    margin-right: 10px;
+    margin-top: 4vh;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.logo-nav {
+    color: rgb(55, 88, 50);
+}
+
+.cartWidget {
+    font-size: 25px;
+    color: rgb(241, 241, 241);
+    margin-right: 10px;
+    margin-top: 4vh;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(75, 147, 209);
+    opacity: 0.7;
+    text-shadow: 1px 1px 3px rgb(0, 0, 0, 0.2);
+}
