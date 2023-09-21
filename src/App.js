@@ -1,4 +1,4 @@
-import { Inicio } from './components/inicio';
+import { Inicio } from './components/Pags/inicio';
 
 function App() {
   return (
