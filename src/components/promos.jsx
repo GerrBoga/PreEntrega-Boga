@@ -2,7 +2,7 @@ import React from 'react'
 
 const promos = () => {
   return (
-    <div>promos</div>
+    <div>HOLA MUNDO</div>
   )
 }
 
