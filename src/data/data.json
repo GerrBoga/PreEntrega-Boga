@@ -3,48 +3,54 @@
         "id": 1,
         "Modelo": "Peugeot 208 Deportivo",
         "Año": "2010",
-        "Descripcion": "Mejor Modelo de todos los tiempos",
-        "Imagen": "../assets/banner-auto",
-        "Precio": 1000000
+        "Descripcion": "Auto",
+        "Imagen": "../assets/peugeot208.webp",
+        "Precio": 1000000,
+        "stock": 10
     },
     {
         "id": 2,
         "Modelo": "Golf Gti",
         "Año": "2016",
-        "Descripcion": "Auto deportivo de fabrica",
-        "Imagen": "../assets/banner-auto",
-        "Precio": 1000000
+        "Descripcion": "Auto",
+        "Imagen": "../assets/golfgti.jpg",
+        "Precio": 1000000,
+        "stock": 10
     },
     {
         "id": 3,
-        "Modelo": "Nissan Gip",
+        "Modelo": "Nissan Frontier",
         "Año": "2022",
-        "Descripcion": "Camioneta Internacional de trabajo",
-        "Imagen": "../assets/banner-auto",
-        "Precio": 1000000
+        "Descripcion": "Camioneta",
+        "Imagen": "../assets/nissanfrontier.webp",
+        "Precio": 1000000,
+        "stock": 10
     },
     {
         "id": 4,
         "Modelo": "Gol Trend",
         "Año": "2016",
-        "Descripcion": "Auto valorado por si acompañamiento y resistencia",
-        "Imagen": "../assets/banner-auto",
-        "Precio": 1000000
+        "Descripcion": "Auto",
+        "Imagen": "../assets/goltrend.jpg",
+        "Precio": 1000000,
+        "stock": 10
     },
     {
         "id": 5,
         "Modelo": "Fiesta Kinetic",
         "Año": "2017",
-        "Descripcion": "Mejor modelo del auto en mucho tiempo",
-        "Imagen": "../assets/banner-auto",
-        "Precio": 1000000
+        "Descripcion": "Auto",
+        "Imagen": "../assets/fiestakinetic.webp",
+        "Precio": 1000000,
+        "stock": 10
     },
     {
         "id": 6,
         "Modelo": "Scirocco Deportivo",
         "Año": "2018",
-        "Descripcion": "Auto de alta gama especialidad en caballos de potencia",
-        "Imagen": "../assets/banner-auto",
-        "Precio": 1000000
+        "Descripcion": "Auto",
+        "Imagen": "../assets/sirocco.webp",
+        "Precio": 1000000,
+        "stock": 10
     }
 ]

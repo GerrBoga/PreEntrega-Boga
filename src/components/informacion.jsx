@@ -1,9 +1,12 @@
 import React from 'react'
 
-const informacion = () => {
+const Informacion = () => {
   return (
-    <div>informacion</div>
+    <div className='container'>
+      <h1 className='main-title'>Informacion Sobre Nosotros</h1>
+      <p>Aqui colocaremos nuestras informacion</p> 
+    </div>
   )
 }
 
-export default informacion
+export default Informacion

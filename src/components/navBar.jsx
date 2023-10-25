@@ -12,11 +12,13 @@ export const NavBar = () => {
             <Link to="/" className="logo"><h1>HERBOX</h1></Link>
               <ul className="menu">
                 <li><Link className="menu-link" to="/">Inicio</Link></li>
-                <li><Link className="menu-link" to="/catalogo">Catalogo</Link></li>
-                <li><Link className="menu-link" to="/informacion">Informacion</Link></li>
-                <li><Link className="menu-link" to="/promos">Promos</Link></li>
+                <li><Link className="menu-link" to="Catalogo">Catalogo</Link></li>
+                <li><Link className="menu-link" to="Informacion">Informacion</Link></li>
+                <li><Link className="menu-link" to="Promos">Promos</Link></li>
+                <li><Link className="menu-link" to="/productos/Auto">Autos</Link></li>
+                <li><Link className="menu-link" to="/productos/Camioneta">Camionetas</Link></li>
+                <li><Link className="menu-link" to="Carrito"><Cartwidget/></Link></li>
               </ul>
-              <a className="cartWidget" href="./Cartwidget"> <Cartwidget/> </a>
             </nav>
           </div>
     </header>

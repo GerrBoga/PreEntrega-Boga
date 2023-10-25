@@ -1,9 +1,9 @@
 import React from 'react'
 
-const promos = () => {
+const Promos = () => {
   return (
     <div>HOLA MUNDO</div>
   )
 }
 
-export default promos
+export default Promos
